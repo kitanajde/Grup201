@@ -25,8 +25,7 @@ FocusTrack
 - Eğitim kalitesini ölçmek veya geliştirmek isteyen bilinçli kullanıcılar
 - Dikkat takibiyle öğrencinin başarısına etki etmeye açık kişiler
 
-## Pazarlama Planı
-?
+
 ## Product Backlog URL
 [Notion Backlog Board](...)
 
