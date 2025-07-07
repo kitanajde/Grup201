@@ -57,7 +57,9 @@ Daily Scrum toplantılarımız Google Meets üzerinden her akşam saat 20:00’d
 
 ### Sprint board update: Sprint board screenshot: <img width="918" alt="Ekran Resmi 2025-07-06 22 06 19" src="https://github.com/user-attachments/assets/20acd919-c3aa-4f34-8015-696a7dc3a230" />
 
-### Ürün Durumu: ![WhatsApp Image 2025-07-07 at 17 49 33](https://github.com/user-attachments/assets/136d0264-d440-44e3-9df0-15adb864f6af)
+### Ürün Durumu: React.js arayüz klasör dosyamızı oluşturduk.
+
+![WhatsApp Image 2025-07-07 at 17 49 33](https://github.com/user-attachments/assets/136d0264-d440-44e3-9df0-15adb864f6af)
 
 ### Sprint Review:
 - Tüm ekip görevlerini zamanında tamamladı.
