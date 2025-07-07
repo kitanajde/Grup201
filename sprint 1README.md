@@ -52,9 +52,12 @@ Görevlerin öncelik ve tipi aşağıdaki gibidir:
 ### Daily Scrum:
 Daily Scrum toplantılarımız Google Meets üzerinden her akşam saat 20:00’de yapılmıştır. Toplantı notları ve günlük gelişmeler Whatsapp grubunda kayıt altına alınmıştır.
 
+![WhatsApp Image 2025-07-07 at 16 54 01](https://github.com/user-attachments/assets/26fe5a00-c3a6-478d-a7ac-e06eb5af57cd)
+![WhatsApp Image 2025-07-07 at 16 54 02](https://github.com/user-attachments/assets/bed19097-892f-4229-bae9-25efddf80a93)
+
 ### Sprint board update: Sprint board screenshot: <img width="918" alt="Ekran Resmi 2025-07-06 22 06 19" src="https://github.com/user-attachments/assets/20acd919-c3aa-4f34-8015-696a7dc3a230" />
 
-### Ürün Durumu: Ekran Görüntüleri
+### Ürün Durumu: ![WhatsApp Image 2025-07-07 at 17 49 33](https://github.com/user-attachments/assets/136d0264-d440-44e3-9df0-15adb864f6af)
 
 ### Sprint Review:
 - Tüm ekip görevlerini zamanında tamamladı.
@@ -72,4 +75,3 @@ Daily Scrum toplantılarımız Google Meets üzerinden her akşam saat 20:00’d
 - MediaPipe ile ilgili daha detaylı uygulamaya 2. sprintte başlanmasına karar verildi.
 - Zaman yönetimi başarılıydı, iletişim Discord üzerinden düzenli şekilde sağlandı.
 - Bundan sonraki sprintlerde puanlama detayları daha hassas yapılacak.
-
