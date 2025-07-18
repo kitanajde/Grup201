@@ -77,3 +77,60 @@ Daily Scrum toplantılarımız Google Meets üzerinden her akşam saat 20:00’d
 - MediaPipe ile ilgili daha detaylı uygulamaya 2. sprintte başlanmasına karar verildi.
 - Zaman yönetimi başarılıydı, iletişim Discord üzerinden düzenli şekilde sağlandı.
 - Bundan sonraki sprintlerde puanlama detayları daha hassas yapılacak.
+
+
+# Sprint 2
+
+### Sprint Notları
+User Story: Bu sprint, kullanıcı arayüzünün geliştirilmesi, hata ayıklama sürecinin başlatılması ve MediaPipe entegrasyonu için araştırmaların ilerletilmesine odaklanmıştır. Ayrıca, mimari yapı revize edilerek kodun sürdürülebilirliği artırılmıştır.
+Sprint Hedefi: Projenin arayüz yapısının iyileştirilmesi, MediaPipe araştırmasının ilerletilmesi ve sistemin test edilebilirliğinin artırılması.
+Sprint Süresi: 7 Temmuz – 20 Temmuz 2025
+Toplam Puan: 100 Puan
+
+### Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
+### Puan tamamlama mantığı:
+Proje boyunca tamamlanması gereken toplam 300 puanlık backlog bulunmaktadır. Bu iş yükü 3 sprint’e bölünmüştür.
+İkinci sprintte, arayüz geliştirme, hata yönetimi ve sistem entegrasyonları gibi teknik ilerlemeye odaklanılmış ve buna göre 100 puanlık görev dağılımı yapılmıştır.
+
+### Backlog düzeni ve Story seçimleri:
+Sprint 1, sonraki sprintlerin temelini oluşturacak şekilde planlanmıştır. Aşağıdaki görevler Notion’daki sprint board’da "Backlog", "To-do", "In Progress", "In Review" başlıklarına dağıtılmıştır.
+Görevlerin öncelik ve tipi aşağıdaki gibidir:
+- Low Priority görevler proje kurulumunu ve belgelemeyi içerir.
+- Minimal Priority görevler teknik ön araştırma ve ilk entegrasyonları içerir.
+- Görev türleri arasında Feature, Task, Chore, ve Research bulunur.
+
+### Daily Scrum:
+Daily Scrum toplantılarımız Google Meets üzerinden her akşam saat 21:00’de yapılmıştır. Toplantı notları ve günlük gelişmeler Whatsapp grubunda kayıt altına alınmıştır.
+
+![WhatsApp Image 2025-07-18 at 22 32 43](https://github.com/user-attachments/assets/da3db6b1-6056-4ad6-9e67-4a2972d1fdc8)
+
+### Sprint board update: Sprint board screenshot: <img width="831" height="818" alt="Ekran Resmi 2025-07-18 23 18 29" src="https://github.com/user-attachments/assets/78f4a985-3560-4114-a96b-d505e199c17d" />
+
+### Ürün Durumu: 
+Projenin mimari yapısı gözden geçirilmiş ve yeniden düzenlenmiştir.
+Arayüz iyileştirmeleri gerçekleştirilmiştir.
+Kamera izni ve görüntü alınması başarılı şekilde sağlanmıştır.
+MediaPipe araştırmaları detaylandırılmıştır.
+API ve veri tabanı entegrasyonu için planlama yapılmıştır.
+
+![WhatsApp Image 2025-07-18 at 23 34 34](https://github.com/user-attachments/assets/5b4aaecc-4005-4e71-bd80-423dedfa2d3b)
+
+
+
+### Sprint Review:
+- Kamera izni sorunsuz alındı ve canlı görüntü sağlandı.
+- React.js kurulumu tamamlandı, klasör yapısı oturtuldu.
+- Görsel arayüz üzerinde erişilebilirlik için iyileştirmeler başladı.
+- MediaPipe landmark araştırması detaylandırıldı.
+- Sprint hedeflerine büyük ölçüde ulaşıldı.
+- Sprint Review Katılımcıları:
+  Andaç Semercioğlu, Aslı Sude Tetik, Fethiye Helvacılar, Pelin Aybar, Betül Alparslan
+
+### Sprint Retrospective:
+- MediaPipe entegrasyonu için daha kapsamlı testlere Sprint 3’te geçilecek.
+- API ve veri tabanı katmanları için görev planlaması yapılmalı.
+- Arayüz iyileştirmeleri kullanıcı deneyimi açısından pozitif etki yarattı.
+- Tüm ekip görevlerine zamanında başladı ve iletişim düzenli sağlandı.
+
+
